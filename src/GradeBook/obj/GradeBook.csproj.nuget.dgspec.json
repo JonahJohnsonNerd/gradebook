@@ -1,32 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\JJ-I7\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "c:\\Users\\jonah.johnson\\Documents\\GitHub\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "c:\\Users\\JJ-I7\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "c:\\Users\\jonah.johnson\\Documents\\GitHub\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\JJ-I7\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "c:\\Users\\jonah.johnson\\Documents\\GitHub\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "c:\\Users\\JJ-I7\\gradebook\\src\\GradeBook\\GradeBook.csproj",
-        "packagesPath": "C:\\Users\\JJ-I7\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\JJ-I7\\gradebook\\src\\GradeBook\\obj\\",
+        "projectPath": "c:\\Users\\jonah.johnson\\Documents\\GitHub\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "packagesPath": "C:\\Users\\jonah.johnson\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\jonah.johnson\\Documents\\GitHub\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\JJ-I7\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jonah.johnson\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp3.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -37,15 +34,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -56,6 +45,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }

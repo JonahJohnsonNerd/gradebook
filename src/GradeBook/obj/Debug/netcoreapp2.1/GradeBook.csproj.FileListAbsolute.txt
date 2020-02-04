@@ -19,3 +19,13 @@ C:\Users\JJ-I7\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.Assembl
 C:\Users\JJ-I7\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfo.cs
 C:\Users\JJ-I7\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.dll
 C:\Users\JJ-I7\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.pdb
+c:\Users\jonah.johnson\Documents\GitHub\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.deps.json
+c:\Users\jonah.johnson\Documents\GitHub\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.runtimeconfig.json
+c:\Users\jonah.johnson\Documents\GitHub\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.runtimeconfig.dev.json
+c:\Users\jonah.johnson\Documents\GitHub\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.dll
+c:\Users\jonah.johnson\Documents\GitHub\gradebook\src\GradeBook\bin\Debug\netcoreapp2.1\GradeBook.pdb
+c:\Users\jonah.johnson\Documents\GitHub\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.csprojAssemblyReference.cache
+c:\Users\jonah.johnson\Documents\GitHub\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfoInputs.cache
+c:\Users\jonah.johnson\Documents\GitHub\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.AssemblyInfo.cs
+c:\Users\jonah.johnson\Documents\GitHub\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.dll
+c:\Users\jonah.johnson\Documents\GitHub\gradebook\src\GradeBook\obj\Debug\netcoreapp2.1\GradeBook.pdb
